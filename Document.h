@@ -35,6 +35,4 @@ class Document {
     ~Document(){};
     void executeNextLine(string);
     bool getExit();
-
-
 };
