@@ -44,7 +44,7 @@ they were delicious
 so sweet
 and so cold
 .
-/strawberries
+?strawberries
 s/strawberries/plums/
 %p
 Q
